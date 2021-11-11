@@ -1,7 +1,4 @@
 # Covid-19-Data-Analysis
-
-![covid](https://unsplash.com/photos/rnr8D3FNUNY.jpeg)
-
 ## Installation
 You can find the installation documentation for the
 [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html).
