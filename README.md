@@ -1,6 +1,6 @@
 # Covid-19-Data-Analysis
 
-![covid](https://user-images.githubusercontent.com/44340485/89125544-d5adb680-d4fc-11ea-8d60-c20096bda24e.jpeg)
+![covid](https://unsplash.com/photos/rnr8D3FNUNY)
 
 ## Installation
 You can find the installation documentation for the
@@ -43,10 +43,8 @@ Question that are from intrest are -
 
 There is a Jupyter notebook in .ipynb format. I have also written a blogpost on Medium summarizing all the insights that I gathered.
 
-## Blog
 
-The blog can be accessed here-
-[Medium](https://medium.com/@ashwanisng/india-fights-against-corona-ddf3166f3500)
+
 
 
 ## Licensing and Acknowledgements
